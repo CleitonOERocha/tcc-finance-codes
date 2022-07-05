@@ -1,6 +1,18 @@
 
 
 
+####################################################################
+####################################################################
+## ESCRITO POR: Cleiton Rocha - www.linkedin.com/in/cleitonoerocha/
+## EMAIL:  cleitonotavio058@gmail.com 
+## LICENÇA:  GPLv3
+## DATA: 05/07/2022
+## CÓDIGO DISPONÍVEL EM: 
+## https://github.com/CleitonOERocha/tcc-finance-codes
+####################################################################
+####################################################################
+
+
 options(scipen = 999)
 
 # pacotes R ------------------------
